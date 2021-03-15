@@ -39,14 +39,7 @@ This is the application which can help any african to rent room or house by payi
 
 -  USER
      
-      * TENANT 
-
-          * user full name
-          * user NickName 
-          * Geo location auto 
-          * Country, City, District, Ward, street
-          * Hidden attribute untill you pay to see these features
-            * Phone Number
+      
             
 - Payment methods 
     * Tigo pesa
