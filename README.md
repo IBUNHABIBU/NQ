@@ -32,8 +32,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-This is the application which can help any african to rent room or house by paying only 10000Tshs each time you contact the landloard to see the room. When you are not satisfied by the room you saw you can pay again until you reach 3times you will pay the remaining turn only 1000tshs. For buying house, car, land you will pay only 10%
+Student will be writing their questionaire here
 
 ### Features
 
