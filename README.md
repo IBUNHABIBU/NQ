@@ -38,57 +38,7 @@ This is the application which can help any african to rent room or house by payi
 ### Features
 
 -  USER
-      * LANDLOARD 
-          * user full name
-          * user NickName 
-          * Geo location auto 
-          * Country, City, District, Ward , street
-          * Hidden attribute untill you pay to see these features
-            * Phone Number
-            * Mention three places which are most known i.e Bus stand, Shop,
-
-            restaurant, Bar, Mosque, Church, Petrostation, supermarket
-          * For full house picture with dimmension eithe in m or feet
-            * Picture of the full house  
-            * Picture of the front view 
-            * Picture of the side views
-            * Picture of the back view 
-            * Picture of every room
-            * Picture of the sitting room 
-            * Picture of the kitchen 
-            * Picture of the dinning room
-            * Picture of the Public toilets
-            * Editing House location and user info-hidden
-            * Descriptions 
-
-          * For Single room with dimmensions
-            * Picture of the full house
-            * Picture of the front view
-            * Picture of the side views
-            * Picture of the back view 
-            * Picture of  room
-            * Picture of the Public toilets
-            * Editing House location and user info-hidden
-            * Descriptions 
-
-          * Selling House
-            * Picture of the full house
-            * Picture of the front view
-            * Picture of the side views
-            * Picture of the back view 
-            * Picture of every room
-            * Picture of the sitting room 
-            * Picture of the kitchen 
-            * Picture of the dinning room
-            * Picture of the Public toilets
-            * Edit house location and user info before posting a house - hidden
-            * Descriptions 
-            * Likes 
-            * Most liked House 
-
-          * Selling Land
-           
-            * Edit house location and user info before posting a house- hidden
+     
       * TENANT 
 
           * user full name
