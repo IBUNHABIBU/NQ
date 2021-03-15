@@ -11,8 +11,8 @@
     <p align="center"> <img src="https://user-images.githubusercontent.com/55361440/87301597-7d9f1800-c52d-11ea-84e7-7a5684626b3f.png" alt="JavaScript" width="100" height="100"> </p>
   </a>
 
-  <h2 align="center"> HAMA BURE</h2>
-  <h3 align="center"> Panga chumba, nyumba , uza na kununua nyumba au viwanja na magari</h3>
+  <h2 align="center"> QUESTION AIR</h2>
+  <h3 align="center"> Its for student to do their research</h3>
 
   <p align="center">
     <a href="https://github.com/TAMADUNI/Hama/issues">Report Bug</a>
