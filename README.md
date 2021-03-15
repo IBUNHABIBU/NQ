@@ -47,7 +47,9 @@ Student will be writing their questionaire here
 - Price 
     * 10000 per year
 
-- Two minute video 
+- Buttons 
+    * toggle 
+    * radio buttons 
 
 ## [Live demo](#/ "Of the project")
 <br/>
