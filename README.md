@@ -45,10 +45,7 @@ Student will be writing their questionaire here
     * Sim banking 
 - Filter by location, by price, by house
 - Price 
-    * 10000Ths for room get get access to see neighbours and get landloard phone number
-       
-       where each time you ask for new house you will pay until you reach 30000 you will pay only 0.5usd 
-    * 30000 for House until you reach 50000TSh
+    * 10000 per year
 
 - Two minute video 
 
